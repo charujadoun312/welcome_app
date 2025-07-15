@@ -19,6 +19,7 @@ class MyApp extends StatelessWidget {
 
 class ContactCard extends StatelessWidget {
   const ContactCard({super.key});
+  
 
   @override
   Widget build(BuildContext context) {
